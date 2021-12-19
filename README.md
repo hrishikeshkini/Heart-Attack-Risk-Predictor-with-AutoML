@@ -53,7 +53,7 @@ If pip is not already installed, Follow this [link](https://pip.pypa.io/en/stabl
 
 ## Bugs & Logs
 
-1. If you find a bug, kindly open an issue and it will be addressed as early as possible. [Open](https://github.com/hrishikeshkini/pima-indians-diabetes/issues)
+1. If you find a bug, kindly open an issue and it will be addressed as early as possible. [Open](https://github.com/hrishikeshkini/Heart-Attack-Risk-Predictor-with-AutoML/issues)
 2. Under localhost, logging is performed for all the actions and its stored onto logs.txt file
 3. When the app is deployed on heroku, logs can be viewed on  heroku dashboard or CLI.
 
