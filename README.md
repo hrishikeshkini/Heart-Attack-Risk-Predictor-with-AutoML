@@ -1,1 +1,1 @@
-# Heart-Attack-Risk-Predictor-with-AutoML
+# Heart Attack Risk predictor
