@@ -41,7 +41,7 @@ Pickle File : Selected model as per best accuracy and created pickle file.
    6. Pandas, Numpy 
 
 ## Dataset
-[Download here](https://www.kaggle.com/uciml/pima-indians-diabetes-database/download)
+[Download here](https://github.com/hrishikeshkini/Heart-Attack-Risk-Predictor-with-AutoML/blob/main/heart.csv)
 
 ## Installation
 Click here to install [python](https://www.python.org/downloads/). To install the required packages and libraries, run this pip command in the project directory after cloning the repository:
