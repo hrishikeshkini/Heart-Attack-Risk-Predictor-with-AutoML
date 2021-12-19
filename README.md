@@ -2,16 +2,12 @@
 Main Aim of this project is to predict whether a person is having a risk of heart attack or not, using Automated Machine Learning Techniques. 
 
 ## Table of Content
-  * [Demo](#demo)
   * [Problem Statement](#problem-statement)
   * [Approach](#approach)
   * [Technologies Used](#technologies-used)
   * [Installation](#installation)
   * [Bugs & Logs](#bugs--logs)
   * [Contributors](#contributors)
-
-## Demo
-Link: [https://pimaindiansdiabetes.herokuapp.com/](https://pimaindiansdiabetes.herokuapp.com/)
 
 ![Screenshot](Capture.PNG)
 ![Screenshot](Capture2.PNG)
@@ -20,8 +16,9 @@ Link: [https://pimaindiansdiabetes.herokuapp.com/](https://pimaindiansdiabetes.h
 ## Problem Statement
 A heart attack occurs when one or more of your coronary arteries becomes blocked. Over time, a buildup of fatty deposits, including cholesterol. form substances called plaques, which can narrow the arteries (atherosclerosis). This condition, called coronary artery disease, causes most heart attacks. 
 
-![Screenshot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fsaurabhshahane%2Feval-ml-automl&psig=AOvVaw2IKhg4q2ThjQHr2Kn4C0lZ&ust=1639987000263000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPi8qOmx7_QCFQAAAAAdAAAAABAD)
-EvaIML an open-source AutoML library written in python that automates a large part of the machine learning process and we can easily evaluate which machine learning pipeline works better for the given set of data. 
+![Evalml](https://camo.githubusercontent.com/aebdbb69f20d388d46e13fbb13d408299b17cd129d8e01ef2626395391ae2c02/68747470733a2f2f6576616c6d6c2d7765622d696d616765732e73332e616d617a6f6e6177732e636f6d2f6576616c6d6c5f686f72697a6f6e74616c2e737667)
+
+EvalML an open-source AutoML library written in python that automates a large part of the machine learning process and we can easily evaluate which machine learning pipeline works better for the given set of data. 
 
 ## Approach
 Data Exploration : I started exploring dataset using pandas,numpy,matplotlib and seaborn.
